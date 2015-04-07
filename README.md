@@ -26,9 +26,9 @@ ___
 
 ---
 
-##### Online Playable Link for Game
+##### Heroku Link for Production
 
-[Currently Unavailable](#)
+[Production](https://twitter-clone-rushi.herokuapp.com/)
 
 ---
 
