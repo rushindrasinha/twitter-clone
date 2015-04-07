@@ -32,10 +32,10 @@ ___
 
 ---
 
-Upcoming [Wireframe](#)
+Upcoming [Wireframe](https://drive.google.com/file/d/0B7c_xi3qqZ8fNDhPR2htMk1lNFk/view?usp=sharing)
 
 Version 0.1 [Wireframe Version]
-![Wireframe Version](#)
+![Wireframe Version](assets/wireframe.png)
 
 ---
 
