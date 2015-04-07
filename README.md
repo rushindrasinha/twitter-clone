@@ -1,7 +1,7 @@
 #This is my attempt at recreating Twitter
 
 ___
-Current Version ### V0.1
+#### Current Version V0.1
 ---
 ##### Done
 1. Initialised rails app.
